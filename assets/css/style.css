@@ -200,6 +200,27 @@ right: 4px;
 .my-float {
   margin-top: 16px;
 }
+.white{
+  color:#fff;
+}
+.row0{
+  margin-left:23%;
+}
+.p-l{
+  padding-left:13%;padding-right:10%;
+}
+.f-p{
+  font-size:40px;padding-top:10%;
+}
+.values{
+  font-size:20px;font-weight: bold;color:#000000;
+}
+.head-6{
+  font-size: 15px; margin: 0 0 13px 40px;
+}
+.f-s{
+  font-size: 23px
+}
 
 /* end my css */
 
