@@ -201,7 +201,7 @@ right: 4px;
   margin-top: 16px;
 }
 .white{
-  color:#fff;
+  color:#fff !important;
 }
 .row0{
   margin-left:23%;
