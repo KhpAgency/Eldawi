@@ -193,6 +193,9 @@ z-index: 100;
 .serv-ul li{
   width: 100% !important;
 }
+.w-max{
+  width: 100% !important;
+}
 }
 
 @media only screen and (min-width: 320px) and (max-width: 575px){
@@ -229,6 +232,13 @@ right: 4px;
 }
 .text__block ul li{
   font-size: 17px;
+}
+.w-max{
+  width: max-content;
+}
+.wcu h5{
+  font-size: 20px;
+  margin-bottom: 10px;
 }
 /* end my css */
 
